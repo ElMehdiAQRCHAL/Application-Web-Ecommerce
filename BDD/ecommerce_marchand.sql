@@ -42,7 +42,6 @@ CREATE TABLE `marchand` (
 
 LOCK TABLES `marchand` WRITE;
 /*!40000 ALTER TABLE `marchand` DISABLE KEYS */;
-INSERT INTO `marchand` VALUES (10000,'ahmed','rebabi','rebabi@gmail.com','123','N 31 hay salam, rabat'),(10001,'jamal','abidi','abidi@gmail.com','jijiji',NULL),(10002,'kllk','knkl','elmehdi_aqrchal@um5.ac.ma','g',NULL),(10003,'ait hamid','yasin','aithamid@gmail.com','123','N 31 hay salam, agadir'),(10004,'hamza','mghayfri','lmghaifri@gmail.com','123456','N 13 av 11 janvier Guelmim');
 /*!40000 ALTER TABLE `marchand` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
