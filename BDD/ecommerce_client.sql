@@ -39,11 +39,7 @@ CREATE TABLE `client` (
 -- Dumping data for table `client`
 --
 
-LOCK TABLES `client` WRITE;
-/*!40000 ALTER TABLE `client` DISABLE KEYS */;
-INSERT INTO `client` VALUES (1000,'AQR','EL-MEHDI','mehdi19@gmail.com','AZERTY1'),(1015,'jamal','labib','labib@hotmail.com','hkjgjh'),(1016,'jkklk','kljkl,','semara@gmail.com','jojo'),(1017,'jkklk','kljkl,','super@gmail.com','hu'),(1018,'jkklk','kljkl,','supe@gmail.com','g');
-/*!40000 ALTER TABLE `client` ENABLE KEYS */;
-UNLOCK TABLES;
+
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
